@@ -12,7 +12,7 @@
 				"url": "#",
 				"destination": "Details",
 				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_research.svg"
-				"image2": "https://img.icons8.com/ios/50/000000/e-commerce.png"
+				
 			}
 		},
 		{
@@ -25,7 +25,6 @@
 				"url": "#",
 				"destination": "Details",
 				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_planning.svg"
-				"image2": "https://img.icons8.com/external-inipagistudio-mixed-inipagistudio/64/000000/external-seo-web-development-company-inipagistudio-mixed-inipagistudio.png"
 			},
 			"open": false
 		},
@@ -39,7 +38,7 @@
 				"url": "#",
 				"destination": "Details",
 				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_production.svg"
-				"image2": "https://img.icons8.com/ios/50/000000/e-commerce.png"
+				
 			},
 			"open": false
 		},
@@ -53,7 +52,7 @@
 				"url": "#",
 				"destination": "Details",
 				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_testing.svg"
-				"image2": "https://img.icons8.com/external-inipagistudio-mixed-inipagistudio/64/000000/external-seo-web-development-company-inipagistudio-mixed-inipagistudio.png"
+				
 			},
 			"open": false
 		},
@@ -67,7 +66,7 @@
 				"url": "#",
 				"destination": "Details",
 				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_result.svg"
-				"image2": "https://img.icons8.com/ios/50/000000/e-commerce.png"
+				
 			},
 			"open": false
 		},
@@ -83,7 +82,7 @@
 				"url": "#",
 				"destination": "Details",
 				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_research.svg"
-				"image2": "https://img.icons8.com/external-inipagistudio-mixed-inipagistudio/64/000000/external-seo-web-development-company-inipagistudio-mixed-inipagistudio.png"
+				
 			}
 		},
 		
@@ -98,7 +97,7 @@
 				"url": "#",
 				"destination": "Details",
 				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_research.svg"
-				"image2": "https://img.icons8.com/ios/50/000000/e-commerce.png"
+				
 			}
 		}
 		
